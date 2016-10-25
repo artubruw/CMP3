@@ -1,4 +1,4 @@
-# cmp3_1617
+# CMP3 (2016-2017)
 Artuur Bruwier
 username: artubruw
 artuur.bruwier@student.arteveldehs.be
